@@ -1,0 +1,1 @@
+Some solutions for the gotour at http://tour.golang.org
